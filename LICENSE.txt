@@ -1,0 +1,10 @@
+PROJECT AFTERLIGHT prototype source code and procedural demo content
+Copyright (c) 2026
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this project and associated documentation (the "Software"), to use, copy, modify, and distribute the Software for development and testing purposes, subject to the following conditions:
+
+1. This notice must be included in substantial copies of the Software.
+2. The project name and game identity may be changed by downstream developers.
+3. No third-party art, music, models, logos, or proprietary game content are included or granted by this license.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
